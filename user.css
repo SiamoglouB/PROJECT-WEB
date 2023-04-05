@@ -1,0 +1,9 @@
+.element{
+	margin:50px;
+	padding:50px;
+}
+
+#map{
+	height: 400px;
+	width: 600px;
+}
