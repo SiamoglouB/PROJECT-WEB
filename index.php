@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta name="google-site-verification" content="a_f1yuh-I95l9TsU_PU-VIlfnzB7OKSt6UMQOUp_jTU" />
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"></link>
 		<link href = "https://use.fontawesome.com/releases/v5.8.2/css/all.css" rel="stylesheet"></link>
